@@ -40,15 +40,15 @@ As the program advances, the structure will evolve naturally.
 ### Preprocessing & Visualization
 - [x] NumPy fundamentals
 - [x] Pandas data manipulation
-- [ ] Data cleaning & preprocessing
-- [ ] Matplotlib visualization
-- [ ] Seaborn visualization
-- [ ] Applied dataset exercises
+- [x] Data cleaning & preprocessing
+- [x] Matplotlib visualization
+- [x] Seaborn visualization
+- [x] Applied dataset exercises
 
 ---
 
 ### Machine Learning
-- [ ] Linear & polynomial regression
+- [x] Linear & polynomial regression
 - [ ] Encoding & scaling
 - [ ] Logistic regression
 - [ ] Model evaluation metrics
