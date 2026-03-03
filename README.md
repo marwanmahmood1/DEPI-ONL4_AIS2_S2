@@ -49,11 +49,11 @@ As the program advances, the structure will evolve naturally.
 
 ### Machine Learning
 - [x] Linear & polynomial regression
-- [ ] Encoding & scaling
-- [ ] Logistic regression
-- [ ] Model evaluation metrics
-- [ ] Decision trees
-- [ ] KNN & SVM
+- [x] Encoding & scaling
+- [x] Logistic regression
+- [x] Model evaluation metrics
+- [x] Decision trees
+- [x] KNN & SVM
 - [ ] PCA & dimensionality reduction
 - [ ] Ensemble learning
 - [ ] Clustering methods
